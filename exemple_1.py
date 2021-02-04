@@ -13,3 +13,6 @@ def hello_world(joy=False):
         print("hello world")
     else:
         print("hello world !!  =)")
+
+def feature_from_new_feature():
+    pass
